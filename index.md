@@ -1,4 +1,3 @@
----
-title: Welcome to my blog
----
+
+Lets get good at programming
 
